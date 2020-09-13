@@ -1,2 +1,2 @@
-# I have made this website to function as a blog website and a portfolio. 
-# Thankyou for checking out my profile
+HI! I am Yash and this is my website.
+Thankyou for checking out my profile
